@@ -98,4 +98,4 @@ Proje bağımlılıkları `pom.xml` dosyasında tanımlanmıştır. Önemli bağ
 
 ## İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz için [zeynepbilgin@testinium.com](mailto:zeynepbilgin@testinium.com) adresinden iletişime geçebilirsiniz.
+Herhangi bir sorunuz veya geri bildiriminiz için [zeynep.bilgin@testinium.com](mailto:zeynep.bilgin@testinium.com) adresinden iletişime geçebilirsiniz.
