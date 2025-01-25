@@ -25,6 +25,38 @@ Bu proje, **Java 17**, **Selenium 4**, **JUnit 5**, ve **Gauge Framework** kulla
 - **Maven**:
     - Proje yapılandırma ve bağımlılık yönetimi için **Maven** kullanılmıştır. Tüm bağımlılıklar `pom.xml` dosyasında tanımlanmıştır.
 
+## Proje Yapısı 
+```plaintext
+otomasyon-projesi
+├── specs
+│   ├── account.spec
+│   ├── login.spec
+│   └── transfer.spec
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   ├── driver
+│   │   │   │   └── DriverManager.java
+│   │   │   ├── pages
+│   │   │   │   ├── AccountPage.java
+│   │   │   │   ├── LoginPage.java
+│   │   │   │   └── TransferPage.java
+│   │   │   └── util
+│   │   │       └── HelperMethod.java
+│   │   └── resources
+│   │       └── config.properties
+│   └── test
+│       ├── java
+│       │   ├── base
+│       │   │   └── BaseTest.java
+│       │   └── steps
+│       │       ├── AccountStep.java
+│       │       ├── LoginStep.java
+│       │       └── TransferStep.java
+├── pom.xml
+└── README.md
+```
+
 ## Kurulum
 
 1. Projeyi klonlayın:
