@@ -22,6 +22,9 @@ Bu proje, **Java 17**, **Selenium 4**, **JUnit 5**, ve **Gauge Framework** kulla
 - **Gauge Framework**:
     - Gauge Framework, senaryo bazlı testler yazmak için kullanılmıştır. Test senaryoları `.spec` dosyaları içerisinde tanımlanmıştır.
 
+- **Allure Raporlama**:
+    - Test sonuçlarının detaylı olarak raporlanması için **Allure** kullanılmaktadır. Bu sayede testlerin başarım durumu, hata detayları ve metrikler görsel bir arayüzde takip edilebilir.
+
 - **Maven**:
     - Proje yapılandırma ve bağımlılık yönetimi için **Maven** kullanılmıştır. Tüm bağımlılıklar `pom.xml` dosyasında tanımlanmıştır.
 
@@ -95,6 +98,7 @@ Proje bağımlılıkları `pom.xml` dosyasında tanımlanmıştır. Önemli bağ
 - **SLF4J**
 - **Bonigarcia WebDriverManager (v5.5.3)**
 - **Gauge Framework**
+- **Allure**
 
 ## İletişim
 
