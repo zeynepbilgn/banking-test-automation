@@ -29,7 +29,7 @@ Bu proje, **Java 17**, **Selenium 4**, **JUnit 5**, ve **Gauge Framework** kulla
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullanici/otomasyon-projesi.git
+   git clone https://github.com/zeynepbilgn/banking-test-automation.git
    ```
 
 2. Maven bağımlılıklarını yükleyin:
