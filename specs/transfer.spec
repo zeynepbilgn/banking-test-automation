@@ -5,7 +5,7 @@
 * Kullanıcı "Zeynep" ve "700793" bilgileri ile giriş yapar
 * Kullanıcı Account sayfasına gider
 * Kullanıcı Account Sayfasındaki Transfer Money Butonuna tıklar
-* Kullanıcı Transfer Money bilgilerini girer, sender: "8888888", receiver: "Testinium-2", amount: "10"
+* Kullanıcı Transfer Money bilgilerini girer, sender: "Zeynep", receiver: "Testinium-1", amount: "10"
 * Kullanıcı Transferi gerçekleştirir
 * Transferin dogru oldugu kontrol edilir
 
